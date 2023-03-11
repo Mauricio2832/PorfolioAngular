@@ -12,5 +12,7 @@ constructor() {}
 ngOnInit(): void {
   
 }
-
+toggleAddTask(){
+  console.log("toggleAddTask")
+}
 }
